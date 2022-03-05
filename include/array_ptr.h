@@ -17,8 +17,6 @@ public:
         }
         try{
             raw_ptr_ = new Type[size](); 
-            //std::fillraw_ptr
-            //raw_ptr_ = new[size]{Type{}};
         } 
         catch(...) {
             raw_ptr_ = nullptr;
