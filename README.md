@@ -25,4 +25,5 @@ Windows:
     mingw32-make.exe
     (here, as an example, the utility make, which is part of the mingw package, is used)
 
-If there are no errors, the SimpleVector.exe executable file will appear in the current folder for Windows, or SimpleVector for Linux 
+If there are no errors, the SimpleVector.exe executable file will appear in the current folder for Windows, or SimpleVector for Linux.
+
